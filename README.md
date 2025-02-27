@@ -46,9 +46,4 @@ Some potential improvements for this ATM application include:
 - Implementing transaction logging for audit trails
 - Improving error handling and user feedback
 
-## Author
-[Rahul Tukaram Akhade]
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
